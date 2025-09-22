@@ -1,11 +1,7 @@
 package = "programming-in-lua"
 version = "dev-1"
 source = {
-   url = "*** please add URL for source tarball, zip or repository here ***"
-}
-description = {
-   homepage = "*** please enter a project homepage ***",
-   license = "*** please specify a license ***"
+   url = "https://github.com/thais-falbo/programming-in-lua"
 }
 dependencies = {
    "lua >= 5.1, < 5.5",
